@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maneal/Projects/C/destegfil/src/main.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+

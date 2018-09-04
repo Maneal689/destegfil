@@ -1,0 +1,3 @@
+/home/maneal/Projects/C/destegfil/CMakeFiles/rebuild_cache.dir
+/home/maneal/Projects/C/destegfil/CMakeFiles/destegfil.dir
+/home/maneal/Projects/C/destegfil/CMakeFiles/edit_cache.dir
